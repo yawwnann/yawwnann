@@ -4,10 +4,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yawwnann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img  height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RyYml5bDNtNWI2YW1iNHBoYThwaWQ0Ymw3Z2xxaDEydnJoMWk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.gif"  />
 </div>
-
+<div style="display:flex;">
+  
   ![](https://github-readme-stats.vercel.app/api?username=yawwnann&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=yawwnann&theme=dark&hide_border=false)
-
+</div>
 
 ###
 
