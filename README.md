@@ -8,11 +8,12 @@
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RyYml5bDNtNWI2YW1iNHBoYThwaWQ0Ymw3Z2xxaDEydnJoMWk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.gif" alt="gif image" />
 </div>
 
-<!-- Stats in flexbox layout -->
-<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yawwnann&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yawwnann&theme=dark&hide_border=false" alt="GitHub streak stats" height="150" />
-</div>
+###
+
+  ![Snake animation](https://raw.githubusercontent.com/yawwnann/yawwnann/output/github-contribution-grid-snake-dark.svg)
+
+
+###
 
 <hr>
 
