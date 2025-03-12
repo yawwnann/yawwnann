@@ -8,12 +8,7 @@
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RyYml5bDNtNWI2YW1iNHBoYThwaWQ0Ymw3Z2xxaDEydnJoMWk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.gif" alt="gif image" />
 </div>
 
-###
 
-  ![Snake animation](https://raw.githubusercontent.com/yawwnann/yawwnann/output/github-contribution-grid-snake-dark.svg)
-
-
-###
 
 <hr>
 
