@@ -13,8 +13,6 @@
 
 
 
-<hr>
-
 <!-- Icons for technologies -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -38,8 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 </div>
 
-<hr>
-
 <!-- Contact buttons -->
 <div align="center">
   <a href="https://instagram.com/yawwnan" target="_blank">
@@ -52,3 +48,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yawwnann&theme=radical&no-frame=false&no-bg=true&margin-w=1&column=9" />
+</p>
