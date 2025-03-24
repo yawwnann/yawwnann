@@ -11,7 +11,7 @@
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RyYml5bDNtNWI2YW1iNHBoYThwaWQ0Ymw3Z2xxaDEydnJoMWk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.gif" alt="gif image" />
 </div>
 
-
+<br>
 
 <!-- Icons for technologies -->
 <div align="center">
@@ -36,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 </div>
 
+<br>
 <!-- Contact buttons -->
 <div align="center">
   <a href="https://instagram.com/yawwnan" target="_blank">
@@ -49,6 +50,7 @@
   </a>
 </div>
 
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yawwnann&theme=radical&no-frame=false&no-bg=true&margin-w=1&column=9" />
