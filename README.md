@@ -5,7 +5,7 @@
 </h1>
 
 <div align ="center">
-  <img height="150" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RyYml5bDNtNWI2YW1iNHBoYThwaWQ0Ymw3Z2xxaDEydnJoMWk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.gif" alt="gif image" />
+  <img height="370" width="650" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RyYml5bDNtNWI2YW1iNHBoYThwaWQ0Ymw3Z2xxaDEydnJoMWk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.gif" alt="gif image" />
 </div>
 
 <br>
@@ -13,8 +13,8 @@
 <div align="center">
   <!-- GitHub language stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yawwnann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <!-- GIF image -->
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yawwnann" alt="GitHub Streak" /></a>
+  <!-- GitHub streak stats -->
+<img src="https://streak-stats.demolab.com?user=yawwnann&theme=dark" height="150"  alt="GitHub Streak" />
 </div>
 
 <br>
