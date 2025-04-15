@@ -3,12 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋.;I'm+Yuwananta.;Nice+to+meet+you!&center=true&size=35">
   </a>
 </h1>
+
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RyYml5bDNtNWI2YW1iNHBoYThwaWQ0Ymw3Z2xxaDEydnJoMWk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.gif" alt="gif image" />
 <!-- Displaying the stats and images in the center -->
 <div align="center">
   <!-- GitHub language stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yawwnann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <!-- GIF image -->
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RyYml5bDNtNWI2YW1iNHBoYThwaWQ0Ymw3Z2xxaDEydnJoMWk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.gif" alt="gif image" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=yawwnann&theme=dark&card_width=497)](https://git.io/streak-stats)
 </div>
 
 <br>
