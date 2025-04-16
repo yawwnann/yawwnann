@@ -19,7 +19,8 @@
 
 <div align ="center">
   
-![Preview](https://tthn.pythonanywhere.com?theme=dark)
+[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
+
 </div>
 
 <br>
