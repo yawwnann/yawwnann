@@ -14,7 +14,7 @@
   <!-- GitHub language stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yawwnann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
   <!-- GitHub streak stats -->
-<img src="https://streak-stats.demolab.com?user=yawwnann&theme=dark" height="150"  alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yawwnann&theme=dark" height="150"  alt="GitHub Streak" />
 </div>
 
 <div align ="center">
