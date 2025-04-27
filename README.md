@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋.;I'm+Yuwananta.;Nice+to+meet+you!&center=true&size=35">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=40&pause=1000&color=F79F22&center=true&width=700&height=55&lines=Hello%2C+Everyone!+%F0%9F%99%8C.;I'm+Yuwananta+From+Yogyakarta.;Nice+To+Meet+You." alt="Typing SVG" /></a>
 </h1>
 
 <div align ="center">
@@ -12,7 +10,7 @@
 <!-- Displaying the stats and images in the center -->
 <div align="center">
   <!-- GitHub language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawwnann&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawwnann&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"  height="150"/>
   <!-- GitHub streak stats -->
   <img src="https://streak-stats.demolab.com?user=yawwnann&theme=dark" height="150"  alt="GitHub Streak" />
 </div>
@@ -61,7 +59,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yawwnann&theme=radical&no-frame=false&no-bg=true&margin-w=1&column=9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yawwnann&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=1&column=9" />
 </p>
 <p align="center">
   <img src="github-user-contribution (1).svg"/>
