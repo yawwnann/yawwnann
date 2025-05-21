@@ -10,7 +10,7 @@
 <!-- Displaying the stats and images in the center -->
 <div align="center">
   <!-- GitHub language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawwnann&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"  height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawwnann&layout=compact&theme=radical" height="150"/>
   <!-- GitHub streak stats -->
   <img src="https://streak-stats.demolab.com?user=yawwnann&theme=dark" height="150"  alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yawwnann&theme=codeSTACKr" alt="Yawwnan GitHub Achievements" />
