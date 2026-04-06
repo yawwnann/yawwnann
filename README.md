@@ -24,7 +24,7 @@
 
   <br/>
 
-  <img src="github-user-contribution (5).svg" alt="Contribution Graph"/>
+  <img src="github-user-contribution (6).svg" alt="Contribution Graph"/>
 
 </div>
 
