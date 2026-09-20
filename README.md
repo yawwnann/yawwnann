@@ -106,7 +106,7 @@ motto:     Build it simple, build it right.
 
 **Contribution Graph**
 
-<img width="98%" src="https://ghchart.rshah.org/ffffff/yawwnann" alt="contribution chart" />
+<img width="98%" src="https://ghchart.rshah.org/yawwnann" alt="contribution chart" />
 
 </div>
 
