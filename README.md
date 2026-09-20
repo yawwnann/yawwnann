@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3f3f3f&height=180&section=header&text=Yuwananta&fontColor=ffffff&fontSize=60&fontAlignY=32&desc=Informatics%20Student%20%C2%B7%20Yogyakarta,%20Indonesia&descAlignY=52&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3f3f3f&height=180&section=header&text=Yuwananta&fontColor=ffffff&fontSize=60&fontAlignY=32&desc=Software%20Developer%20%C2%B7%20Yogyakarta,%20Indonesia&descAlignY=52&descSize=16" />
 
 <a href="https://github.com/yawwnann">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Hello%2C+Everyone!;I'm+Yuwananta+from+Yogyakarta;Fullstack+%26+Mobile+Developer;Nice+to+meet+you!" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 
 ```yaml
 name:      Yuwananta
-role:      Informatics Student & Developer
+role:      Software Developer
 location:  Yogyakarta, Indonesia
 focus:     Web · Mobile · Geospatial Systems
 learning:  System Design, Clean Architecture
